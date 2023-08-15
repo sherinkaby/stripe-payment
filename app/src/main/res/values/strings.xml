@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">stripe</string>
+    <string name="pay">pay\n</string>
+</resources>
